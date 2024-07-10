@@ -7,8 +7,8 @@
 </ul>
 
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c++" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="20" height="20"/>
   
 </p>
 
