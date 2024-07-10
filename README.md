@@ -6,7 +6,11 @@
     <li>A diligent and creative person</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  
+</p>
 
 
 [![](https://raw.githubusercontent.com/baovkb/baovkb/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
