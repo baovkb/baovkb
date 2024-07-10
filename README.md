@@ -6,7 +6,7 @@
     <li>A diligent and creative person</li>
 </ul>
 
-<img src='./assets/img/cpp.svg'>
+<img src='./assets/img/cpp.svg' height="15" width="15">
 
 
 [![](https://raw.githubusercontent.com/baovkb/baovkb/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
