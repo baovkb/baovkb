@@ -12,8 +12,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" alt="html" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" alt="css" width="30" height="30"/>
   
 </p>
 
