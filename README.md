@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 <ul>
-    <li>A student at University of Information Technology - UIT</li>
+    <li>A student in Computer Engineering at HCMUIT (Ho Chi Minh City University of Information Technology)</li>
     <li>A diligent and creative person</li>
 </ul>
 
