@@ -12,7 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="javas" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="30" height="30"/>
+  
   
 </p>
 
