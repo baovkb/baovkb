@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
   
   
 </p>
